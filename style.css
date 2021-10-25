@@ -1,0 +1,33 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    display: flex;
+    justify-content: center;
+    margin-top: 70px;
+}
+.div_body{
+    width: 650px;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    border: 2px solid black;
+    
+}
+.div_marca{
+    margin-top: 20%;
+}
+.marca_asfuture{
+    font-family: 'Noto Sans Mono', monospace;
+    font-size: 40px;
+    width: 225px;
+    padding: 5px;
+    text-align: center;
+    border-top: 2px solid blue;
+    border-bottom: 2px solid blue;
+}
+.slogan{
+    font-family: 'Noto Sans Mono', monospace;
+    
+}
